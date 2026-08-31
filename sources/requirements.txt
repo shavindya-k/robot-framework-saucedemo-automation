@@ -1,0 +1,5 @@
+robotframework==7.4.2
+robotframework-seleniumlibrary==6.9.0
+
+# Run tests in parallel when the test suite expands
+robotframework-pabot==5.2.2

@@ -1,0 +1,20 @@
+# Robot Framework test results
+results/
+report/
+log.html
+output.xml
+report.html
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
