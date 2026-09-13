@@ -1,6 +1,6 @@
 # Robot Framework - SauceDemo Test Automation
 
-A UI test automation project built with Robot Framework and SeleniumLibrary, using a Page Object Model (POM) structure to automate and validate web application scenarios.
+A UI test automation project built with Robot Framework and Selenium Library, using a Page Object Model (POM) structure to automate and validate web application scenarios.
 
 This is a personal project I created to learn, improve, and further practice my skills in Robot Framework and test automation.
 
